@@ -1,20 +1,34 @@
-# Data Analytics Portfolio 📊
+# Data Analytics & Business Intelligence Portfolio 📊
 
-Welcome to my central data analytics repository! I am an aspiring data analyst with previous professional workplace experience at Kotak Mahindra Prime, currently advancing my academic studies with a strong focus on data communication, algorithms, and soft computing. 
+Welcome to my portfolio! I am an aspiring Data Analyst specializing in transforming raw data into actionable business intelligence. My work focuses on data modeling, automated preprocessing, and applying machine learning algorithms to uncover hidden business insights.
 
-This repository serves as a growing digital portfolio to showcase my ability to process raw data, uncover actionable business insights, and build interactive visualizations.
+## 🛠️ Technical Skills
+* **Tools:** Power BI, Power Query, Excel, Python
+* **Data Processing:** Automated ETL workflows, Data Cleaning, Dimensional Modeling
+* **Advanced Analytics:** Time-Series Forecasting (ETS), K-Means Clustering, Predictive Modeling
+
+---
 
 ## 📂 Featured Projects
 
-*   **Sales & Revenue Analysis Dashboard:** 
-    *   **Goal:** Track business performance and visualize revenue trends.
-    *   **Skills Used:** Data cleaning (Power Query), KPI tracking, interactive filtering (Slicers), and visual design.
-    *   **Tools:** Microsoft Power BI, CSV Data.
-*   
+### 1. [Sales Performance Dashboard](./Sales_Dashboard/)
+* **Objective:** Designed an interactive dashboard to track KPIs, analyze revenue trends, and identify top-performing regions.
+* **Skills Demonstrated:** Data visualization, DAX measures, relational data modeling.
 
-## 🛠️ Tools & Technologies
-*   **Software:** Power BI, Microsoft Excel
-*   **Core Skills:** Data Visualization, Data Cleaning, Problem Solving
+### 2. [Customer Segmentation (Machine Learning)](./Customer_Segmentation/)
+* **Objective:** Applied a clustering algorithm to 100+ customer profiles to identify distinct purchasing behaviors and target demographics.
+* **Skills Demonstrated:** K-Means clustering, pattern recognition, targeted business intelligence.
+
+### 3. [Time-Series Predictive Analytics](./Predictive_Analytics/)
+* **Objective:** Built a forecasting model using historical telemetry to predict the next 12 months of revenue with a 95% confidence interval.
+* **Skills Demonstrated:** Exponential Smoothing (ETS), seasonality adjustment, trend analysis.
+
+### 4. [Automated Data Cleaning Workflow](./Data_Cleaning_Automation/)
+* **Objective:** Engineered an automated ETL pipeline to ingest messy telemetry data, remove duplicates, and standardize naming conventions.
+* **Skills Demonstrated:** Power Query automation, data preprocessing, handling null values.
+
+---
+*Open to data analytics internships and collaborative projects. Feel free to explore the repository folders above to see the interactive `.pbix` files and source datasets.*
 
 ## 📫 Let's Connect
 Feel free to explore the project folders above to see my work. You can reach out to me via sangeeth1642004@gmail.com.
