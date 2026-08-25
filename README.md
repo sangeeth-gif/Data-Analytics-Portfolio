@@ -1,32 +1,20 @@
-# Data Analytics & Business Intelligence Portfolio 📊
-
-Welcome to my portfolio! I am an aspiring Data Analyst specializing in transforming raw data into actionable business intelligence. My work focuses on data modeling, automated preprocessing, and applying machine learning algorithms to uncover hidden business insights.
-
-## 🛠️ Technical Skills
-* **Tools:** Power BI, Power Query, Excel, Python
-* **Data Processing:** Automated ETL workflows, Data Cleaning, Dimensional Modeling
-* **Advanced Analytics:** Time-Series Forecasting (ETS), K-Means Clustering, Predictive Modeling
-
----
-
 ## 📂 Featured Projects
 
-### 1. [Sales Performance Dashboard](./Sales_Dashboard/)
+### 1. [Sales Performance Dashboard](./Sales_Dashboard_Project.pbix)
 * **Objective:** Designed an interactive dashboard to track KPIs, analyze revenue trends, and identify top-performing regions.
 * **Skills Demonstrated:** Data visualization, DAX measures, relational data modeling.
 
-### 2. [Customer Segmentation (Machine Learning)](./Customer_Segmentation/)
+### 2. [Customer Segmentation (Machine Learning)](./Customer_Segmentation_Dashboard.pbix)
 * **Objective:** Applied a clustering algorithm to 100+ customer profiles to identify distinct purchasing behaviors and target demographics.
 * **Skills Demonstrated:** K-Means clustering, pattern recognition, targeted business intelligence.
 
-### 3. [Time-Series Predictive Analytics](./Predictive_Analytics/)
+### 3. [Time-Series Predictive Analytics](./Predictive_Analytics_Forecast.pbix)
 * **Objective:** Built a forecasting model using historical telemetry to predict the next 12 months of revenue with a 95% confidence interval.
 * **Skills Demonstrated:** Exponential Smoothing (ETS), seasonality adjustment, trend analysis.
 
-### 4. [Automated Data Cleaning Workflow](./Data_Cleaning_Automation/)
+### 4. [Automated Data Cleaning Workflow](./Data_Cleaning_Automation.pbix)
 * **Objective:** Engineered an automated ETL pipeline to ingest messy telemetry data, remove duplicates, and standardize naming conventions.
 * **Skills Demonstrated:** Power Query automation, data preprocessing, handling null values.
-
 ---
 *Open to data analytics internships and collaborative projects. Feel free to explore the repository folders above to see the interactive `.pbix` files and source datasets.*
 
